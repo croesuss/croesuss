@@ -1,7 +1,7 @@
 # Hı There , I'm Croesus
 ![profile count](https://komarev.com/ghpvc/?username=croesussjs&color=8b72ff)&nbsp;
 <a href="https://instagram.com/haktan2m"><img src="https://img.shields.io/badge/@haktan2m-ff0000?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
-<a href="https://discord.gg/1944"><img src="https://img.shields.io/badge/1944-000000?style=flat&logo=Discord&logoColor=white"/></a> &nbsp;
+<a href="https://discord.gg/105"><img src="https://img.shields.io/badge/105-000000?style=flat&logo=Discord&logoColor=white"/></a> &nbsp;
 
 **Ücretli Bot İşlemleri İçin Discord Üzerinden İletişime Geçebilirsiniz.**
 
