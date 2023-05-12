@@ -5,7 +5,7 @@ Owner Of Code Artz Team. [![Discord](https://img.shields.io/badge/CodeArtz-%2372
 
 <\> Backend Developer.
 
-![profile count](https://komarev.com/ghpvc/?username=raviwen&color=8b72ff)&nbsp;
+![profile count](https://komarev.com/ghpvc/?username=croesuscum&color=8b72ff)&nbsp;
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/codeartz) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/haktanyc) 
