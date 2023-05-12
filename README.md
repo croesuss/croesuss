@@ -5,6 +5,7 @@ Owner Of Code Artz Team. [![Discord](https://img.shields.io/badge/CodeArtz-%2372
 
 <\> Backend Developer.
 
+[![](https://visitcount.itsvg.in/api?id=croesuscum&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/codeartz) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/haktanyc) 
@@ -23,7 +24,5 @@ Owner Of Code Artz Team. [![Discord](https://img.shields.io/badge/CodeArtz-%2372
 ![](https://github-profile-trophy.vercel.app/?username=croesuscum&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=croesuscum&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/948975442159886398?theme=darkt&bg=000000&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else)](https://discord.com/users/948975442159886398)
