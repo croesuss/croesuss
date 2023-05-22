@@ -20,11 +20,11 @@ module.exports = new Person({
 });
 ```
 <h2 align="left"> 📱 Socials</h2>
-  <a href="https://instagram.com/haktanyc" title="Instagram"><img alt="My Team Discord" title="My Instagram Account" src="https://img.shields.io/badge/-My%20Instagram%20Account-C13584"/></a>
-  <a href="https://discord.com/users/948975442159886398" title="My Discord Account"><img alt="My Team Discord" title="My Discord Account" src="https://img.shields.io/badge/-My%20Discord%20Account-blue"/></a>
-  <a href="https://discord.gg/codeartz" title="Team Discord Server"><img alt="Team Discord Server" title="Team Discord Server" src="https://img.shields.io/badge/-Team%20Discord%20Server-blue"/></a>
-  
-  ![profile count](https://komarev.com/ghpvc/?username=croesuscum&color=8b72ff)&nbsp;
+<a href="https://instagram.com/croesuscum" title="Instagram"><img alt="My Team Discord" title="My Instagram Account" src="https://img.shields.io/badge/My%20Instagram%20Account-C13584.svg?logo=instagram&logoColor=white"/></a>
+<a href="https://discord.com/users/948975442159886398" title="My Discord Account"><img alt="My Team Discord" title="My Discord Account" src="https://img.shields.io/badge/My%20Discord%20Account-blue.svg?logo=discord&logoColor=white"/></a>
+<a href="https://discord.gg/codeartz" title="Team Discord Server"><img alt="Team Discord Server" title="Team Discord Server" src="https://img.shields.io/badge/CodeArtz-%237289DA.svg?logo=discord&logoColor=white"/></a>
+
+<img src="https://komarev.com/ghpvc/?username=croesuscum&color=blue&style=for-the-badge">
   
   [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/948975442159886398?theme=darkt&bg=000000&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else)](https://discord.com/users/948975442159886398)
 
