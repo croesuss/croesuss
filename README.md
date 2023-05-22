@@ -1,28 +1,68 @@
-# Hı There , I'm Croesus
+<img src="https://cdn.discordapp.com/attachments/1029457179629072495/1110172920942174279/github-header-image_10.png" width="100%">
 
-# 💫 About Me:
-Owner Of Code Artz Team. [![Discord](https://img.shields.io/badge/CodeArtz-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/codeartz)
+```js
+class Person {
+  constructor(opt) {
+    this.name = opt.name;
+    this.nickname = opt.nickname;
+    this.age = opt.age;
+    this.languages = opt.langs;
+  }
+};
 
-<\> Backend Developer.
+module.exports = new Person({
+  name: "Haktan",
+  nickname: "Croesus",
+  age: "20",
+  languages: ["tr", "en", "de"],
+  technologies: ["javascript", "typescript", "ejs","python"],
+  codeartz_status = true;
+});
+```
+<h2 align="left"> 📱 Socials</h2>
+  <a href="https://instagram.com/haktanyc" title="Instagram"><img alt="My Team Discord" title="My Instagram Account" src="https://img.shields.io/badge/-My%20Instagram%20Account-C13584"/></a>
+  <a href="https://discord.com/users/948975442159886398" title="My Discord Account"><img alt="My Team Discord" title="My Discord Account" src="https://img.shields.io/badge/-My%20Discord%20Account-blue"/></a>
+  <a href="https://discord.gg/codeartz" title="Team Discord Server"><img alt="Team Discord Server" title="Team Discord Server" src="https://img.shields.io/badge/-Team%20Discord%20Server-blue"/></a>
+  
+  ![profile count](https://komarev.com/ghpvc/?username=croesuscum&color=8b72ff)&nbsp;
+  
+  [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/948975442159886398?theme=darkt&bg=000000&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else)](https://discord.com/users/948975442159886398)
 
-![profile count](https://komarev.com/ghpvc/?username=croesuscum&color=8b72ff)&nbsp;
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/codeartz) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/haktanyc) 
+<h2 align="left">👨‍💻 Projects</h2>
+<ul>
+  <li><a href="https://codeartz.studio">Code Artz</a> (Currently Down)</li>
+</ul>
+<h2 align="left"> 🖥  Tech Stack</h2>
+<div align="left">
+  <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32" height="32"/></a>
+  <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="32" height="32"/></a>
+  <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32" height="32"/></a>
+  <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="32" height="32"/></a>
+
+</div>
+<br clear="both">
+<details>
+  <summary><h2>My Github Stats</h2></summary>
+  <img src="https://streak-stats.demolab.com?user=croesuscum&theme=tokyonight&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D&mode=weekly"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=croesuscum&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=croesuscum&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=10"/>
+</details>
 
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/948975442159886398?theme=darkt&bg=000000&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else)](https://discord.com/users/948975442159886398)
 
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=croesuscum&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=croesuscum&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=croesuscum&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=croesuscum&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
 
----
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/948975442159886398?theme=darkt&bg=000000&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else)](https://discord.com/users/948975442159886398)
+
+
+
+
+
+
+
+
+
+
+
+
+
