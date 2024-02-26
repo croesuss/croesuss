@@ -13,7 +13,7 @@ class Person {
 module.exports = new Person({
   name: "Haktan",
   nickname: "Croesus",
-  age: "20",
+  age: "21",
   languages: ["tr", "en", "de"],
   technologies: ["javascript", "typescript", "ejs","python"],
   codeartz_status = true;
