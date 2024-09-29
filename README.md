@@ -15,4 +15,5 @@
 <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nodejs,mongo,cloudflare,vscode" title=""/>
 
 ### 👨‍💻 I'm Currently Working On
-- A Few Sec(x)ret Projects... 🤫
+- 🌊 Aquara Development
+- Discora Project
