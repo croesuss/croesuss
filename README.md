@@ -7,7 +7,7 @@
 - I'm a Back-End Developer
 
 ### 📞 Contact
-- Email: [haktanyalcintas@luxehouse.com.tr](mailto:haktanyalcintas@luxehouse.com.tr)
+- Email: [haktanyalcintas@gmail.com](mailto:haktanyalcintas@gmail.com)
 - Discord: [croesusdev](https://discord.com/users/948975442159886398)
 - Instagram: [@haktanyc](https://www.instagram.com/haktanyc/)
 
