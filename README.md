@@ -15,5 +15,4 @@
 <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nodejs,mongo,cloudflare,vscode" title=""/>
 
 ### 👨‍💻 I'm Currently Working On
-- 🌊 Aquara Development
-- Discora Project
+- Pega Bilişim
