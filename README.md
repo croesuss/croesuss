@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.png" width="100%" alt="Pega Banner" />
+<img src="https://chatgpt.com/backend-api/estuary/content?id=file_0000000051d471f484f0e1348f352749&ts=495630&p=fs&cid=1&sig=d153a342813637332fa365cc04802685bff9b0ca70b1775f1526be9fb7b2022b&v=0" width="100%" alt="Pega Banner" />
 
 <br />
 
